@@ -1,4 +1,5 @@
 class Solution {
+  //binary search
   public int singleNonDuplicate(int[] nums) {
      int start = 0;
      int end = nums.length-1;
