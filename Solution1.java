@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
   //binary search
   public int singleNonDuplicate(int[] nums) {
      int start = 0;
